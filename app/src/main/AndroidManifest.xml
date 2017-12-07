@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="ilyana.aziera.adeena">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/logo"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/logo"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Gratitude.GratitudeActivity"
+            android:label="My Gratitude"></activity>
+        <activity android:name=".Gratitude.AddGratitude"></activity>
+        <activity android:name=".Gratitude.ModifyGratitude"></activity>
+
+        <activity android:name=".Dua.DuaActivity"
+            android:label="My Dua"></activity>
+        <activity android:name=".Dua.AddDua"></activity>
+        <activity android:name=".Dua.ModifyDua"></activity>
+
+        <activity android:name=".Zikr.MondayActivity"
+            android:label="Monday"></activity>
+        <activity android:name=".Zikr.TuesdayActivity"
+            android:label="Tuesday"></activity>
+        <activity android:name=".Zikr.WednesdayActivity"
+            android:label="Wednesday"></activity>
+        <activity android:name=".Zikr.ThursdayActivity"
+            android:label="Thursday"></activity>
+        <activity android:name=".Zikr.FridayActivity"
+            android:label="Friday"></activity>
+        <activity android:name=".Zikr.SaturdayActivity"
+            android:label="Saturday"></activity>
+        <activity android:name=".Zikr.SundayActivity"
+            android:label="Sunday"></activity>
+
+        <activity android:name=".Zikr.DuaOneActivity"
+            android:label="Sayidatina Fatimah R.A"></activity>
+        <activity android:name=".Zikr.DuaTwoActivity"
+            android:label="Upon Getting Period (Haidh)"></activity>
+        <activity android:name=".Zikr.DuaThreeActivity"
+            android:label="Sayidatina Khadijah R.A"></activity>
+        <activity android:name=".Zikr.DuaFourActivity"
+            android:label="For Ease of Task"></activity>
+        <activity android:name=".Zikr.DuaFiveActivity"
+            android:label="For Happiness and Tranquility"></activity>
+        <activity android:name=".Zikr.DuaSixActivity"
+            android:label="For Goodness"></activity>
+        <activity android:name=".Zikr.DuaSevenActivity"
+            android:label="For Forgiveness"></activity>
+        <activity android:name=".Zikr.DuaEightActivity"
+            android:label="For Soleh and Solehah"></activity>
+        <activity android:name=".Zikr.DuaNineActivity"
+            android:label="For Life Sufficiency"></activity>
+
+    </application>
+
+</manifest>

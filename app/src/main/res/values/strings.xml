@@ -1,0 +1,175 @@
+<resources>
+    <string name="app_name">Adeena:Muslimah Companion</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="app2_name">My Gratitude</string>
+    <string name="enter_gratitude">My Gratitude</string>
+    <string name="add_record">Add Gratitude</string>
+    <string name="btn_update">Update</string>
+    <string name="btn_delete">Delete</string>
+    <string name="empty_list_text">No records found</string>
+    <string name="enter_desc">My Gratitude for today . . .</string>
+    <string name="enter_title">My Gratitude Title</string>
+
+    <string name="app3_name">My Dua</string>
+    <string name="enter_dua">My Dua</string>
+    <string name="add_record3">Add Dua</string>
+    <string name="btn_update3">Update</string>
+    <string name="btn_delete3">Delete</string>
+    <string name="empty_list_text3">No records found</string>
+    <string name="enter_desc3">My Dua for today . . .</string>
+    <string name="enter_title3">My Dua Title</string>
+
+    <string name="about_us">Adeena:Muslimah Companion aims at helping users become better Muslimah by bridging them to inspirational
+        and educational content. Developed by Madcat World, Adeena:Muslimah Companion app features Prayer Times, My Gratitude, My Dua, News,
+        Fast Qadha, To-Do List, Life and Zikr. Users can keep track of prayer times, gratitudes, duas, news, fasting qadha, to-do lists, zikr and  wherever they are.
+        The content is available in English.\n\nPrayer Times\nA platform to display prayer times by JAKIM.\n\nMy Gratitude\nA platform to write gratitude of the day.\n\nMy Dua\nA platform to write dua of the day.
+        \n\nNews\nKeep update with news that happen.\n\nFast Qadha\nA platform to keep track of fast that needed to qadha.\n\nTo-Do List\nA platform to keep track of daily activities.
+        \n\nLife\nA platform to .\n\nZikr\nA platform to keep track of daily zikr and have some of duas for Muslimah.</string>
+
+    <string name="privacy_policy">LAST UPDATED: 10/9/2015
+        \n\nWith compliance to The Personal Data Protection Act 2010 (PDPA) and commitment towards protecting of our member\'s personal information, adeenamuslimahcompanion.com (and subdomains) strives to maintain personal data protection and compliance principles in our provision to provide products and services to our members/customers.Please read adeenamuslimahcompanion.com (and subdomains) Privacy Statement to understand how we use the personal data which we may collect from you. By providing your Personal Information to us, you are consenting to this Privacy Statement, and the collection, the use, the access, the transfer, the storage, and the processing of your personal information as describe in this Privacy Statement.
+        \n\n1. What does this Privacy Statement About
+        \n\nThis Privacy Statement is about:
+        \nWhat kind of your personal information we collect
+        \nHow your personal information is collected
+        \nHow we use your personal information
+        \nWhen we disclose your personal information
+        \nWhen we transfer your personal information
+        \nYour right to access and correct your personal data
+        \n\n2. What is Personal Data
+        \n\nPersonal data is any information which relates directly or indirectly to you. This includes any information which can be used to identify or contact you.
+        \n\n3. What are the kind of Personal Information We Collect
+        \n\nIn order for us to provide you with our Products and Services, and to operate in an efficient and effective manner, we need to collect relevant personal information from you.The personal information collected by us may include (but is not limited to) the following:-
+        \n\ncontact information such as your full name, date of birth, identification, supporting documents (including MyKad/NRIC/Passport, bill statement of utility bills or statements which indicates your fullname, address, etc), gender, nationality and race, preferred language, current private and/or business address, fixed line telephone (home and office), fax number, email address
+        \ncredit card information and bank account details
+        \nthe status of the services you have subscribed from us
+        \nyour personal interests and preferences to help us to better improve our Products and Services
+        \nhow you use the Products and Services the equipment you use when accessing our Websites, Products and/or Services (such as your handphone, your computer system and platform) to customize the service for you
+        \n\n4. When and How we collect your personal data?
+        \n\nWe may collect your personal data from your when you:-
+        \n\nyou register/subscribe as as new member (Verified Member, etc)you use our Products and/or Services
+        \nparticipate in any of our surveys
+        \nparticipate in any of our marketing campaign and/or promotions
+        \nenter and/or participate in any contests, loyalty programmes, competition run/organized by us
+        \nresponse to any marketing materials we send out (newsletter, etc)
+        \nvisit or browse our websites
+        \nlodge a complaint with us
+        \nprovide feedback and/or suggestions to us (via our website or in hard copy)
+        \n\nWhen you access our websites, please be aware that:
+        \n\nyour IP address and information about your visit (such as time stamp, date, duration etc) will be automatically picked up by adeenamuslimahcompanion.com (and subdomains) systems.
+        \na &quot;cookie&quot; may be attached when you enter. Cookies are pieces of iformation that websites transfer to your computer\'s hard drive for record-keeping purposes. The use of cookies is now an industry standard, and you will find them used on most major web sites and in fact, most browsers are initially set up to accept cookies. If you prefer, you can reset your browser either to notify you when you have received a cookie, or to refuse to accept cookies. Please also note that your user experience will be affected and areas of certain sites will not function properly if you set your browser to not accept cookies.
+        \nour websites may contain links to third parties sites and adeenamuslimahcompanion.com (and subdomains) will always try to make it clear when you leave our sites as adeenamuslimahcompanion.com (and subdomains) is not responsible for
+        \nsuch third parties sites and information which you made available at such third parties sites
+        \n\nAs such, it would be prudent for you to check on the privacy policy of such third parties before disclosing your personal information to such third parties and/or sites.
+        \n\n5. How We Use Your Personal Information
+        \n\nWe may collect and use personal information from you for one or more of the following purposes:-
+        \n\nto verify your identity
+        \nto assess and process your application(s) /request(s) for our Products and/or Services
+        \nto provide you with the Products and/or Services you have requested
+        \nto administer and manage the Products and/or Services we provide you (including charging, billing, facilitating payments)
+        \nto investigate and resolve any service issues, billing and fees queries, complaints or other inquiries that you submit to us regarding our Products and Services
+        \nto detect and prevent fraudulent activity
+        \nto keep in contact with you and provide you with any information you have requested
+        \nto engage in business transactions in respect of Products and/or Services to be offered and provided to you
+        \nto establish and better manage any business relationship we may have with you
+        \nto process anyn ommunications you send us (for example, answering any queries and dealing with any complaints and feedback)
+        \n to help us monitor and improve the performance of our Products and Services, our customer support/relations teams and to make these more efficient
+        \nto maintain and develop our business systems and infrastructure, including testing and upgrading of these systems
+        \nto manage staff training and quality assurance
+        \nto notify you about benefits and changes to the features of our Products and/or Services
+        \nto determine how can we improve services to you
+        \nto investigate, respond to, or defend claims made against, or involving Madcat World Sdn Bhd (908695-W)
+        \nto conduct marketing activities (for example, market research)
+        \n\n6. Disclosure of Your Personal Information
+        \n\nAs a part of providing you with our Products and/or Services and the management and/or operation of the same, we may be required or need to disclose information about you to the following third parties:
+        \n\nlaw enforcement agencies
+        \ngovernment agencies
+        \ncompanies and/or organizations that act as our agents, contractors, service providers and/or professional advisers
+        \nother parties in respect of whom you have given your express or implied consent
+        \ncustomer inquiry and other customer related services (including telemarketing);
+        \ndata processing services
+        \ninformation technology services
+        \nmedia and marketing services (including advertising)
+        \nmarket research and website usage analysis services
+        \n\nsubject at all times to any laws (including regulations, guidelines and/or obligations) applicable to Madcat World Sdn Bhd. (908695-W)
+        \n\n7. If Your Personal Information Provided Is Incomplete
+        \n\nWhere indicated (for example in registration/application forms), it is obligatory you provide your personal information to us to enable us to process your application for our Products and/or Services.
+        \nShould you decline to provide such obligatory personal information, we may not be able to process your application/request or provide you with our products or services.
+        \n\n8. Access to Your Personal Data
+        \n\nWe can assist you to access and correct your personal information held by us.
+        \nIf you wish to have access to your personal information in our possession, or where you are of the opinion that such personal information held by us is inaccurate, incomplete, misleading or where relevant, not up-to-date, you may make a request to us by email our Feedback department. You should quote your UserID, full name, email address, mailing/billing address and handphone/ fixed phone number and provide brief details of the information you want a copy of in any such request. We shall charge a processing fee for searching for and providing you with access to your personal information to cover administration costs.
+        \n\nWe will use reasonable efforts to comply with your request to access or correct your personal information within 21 days of receiving your request and the relevant processing fee.
+        \n\nPlease note that we may have to withhold access to your personal information in certain situations, for example when we are unable to confirm your identity or where information requested for is of a confidential commercial nature or in the event we receive repeated requests for the same information. Nevertheless, we will notify you of the reasons for not being able to accede to your request.
+        \n\n9. Your Obligations as A Member
+        \n\nYou are responsible for providing accurate and complete information to us about yourself and any other person whose personal information you provide us and for updating this personal information as and when it becomes incorrect or out of date by contacting adeenamuslimahcompanion.com via the contact details provided below. This obligation is a condition to the provision of our Products and/or Services to you and/or any other person authorised or permitted by you or your organisation/company to use the Products and/or Services.
+        \n\nIn the event you may need to provide us with personal information relating to third parties (for example about your business partner, spouse or children or where you are the designated person in charge (from an organisation or company) for dealing with us, if you are acquiring and are responsible for a service and/or product that they will use), you confirm that you have (i) obtained their consent or otherwise entitled to provide their personal information to us and for us to use accordingly, and (ii) informed them to read this Privacy Statement at our website at http://adeenamuslimahcompanion.com
+        \n\n10. Updates To Our Privacy Statement
+        \n\nWe may be required to revise and/or modify this Privacy Statement from time to time and the updated version shall apply and supersede any and all previous versions, including but not limited to, booklets, leaflets or hard copy versions. By continuing to use adeenamuslimahcompanion.com (and subdomains) Products and Services after the communication of such revision and/or modification, you are accepting and consenting to such revision and/or modification.
+        \n\nPlease check our website and/or our Announcement site for information on our most up-to-date practices.
+        \n\n11. Our Contact Details
+        \n\nShould you have any queries or concerns in relation to this Privacy Statement, kindly contact us at info@adeenamuslimahcompanion.com]]
+    </string>
+
+    <string name="terms">LAST UPDATED: 10/10/2015
+        \n\n1. ACCEPTANCE OF TERMS
+        \n\n1.1 We are Madcat World Sdn Bhd (908695-W) and we own and operate this application ("App").
+        \n\n1.2 Your use of this App is subject to these Terms of Use. By using the App, you are deemed to have accepted and agree to be bound by these Terms of Use. We may make changes to these Terms of Use from time to time. We may notify you of such changes by any reasonable means, including by posting the revised version of these Terms of Use on the App. Your use of the App following changes to these Terms of Use will constitute your acceptance of those changes.
+        \n\n2. ABILITY TO ACCEPT TERMS OF USE
+        \n\n2.1 You affirm that you are either more than 18 years of age, or possess legal parental or guardian consent, and are fully able and competent to enter into the terms, conditions, obligations, affirmations, representations, and warranties set forth in these Terms of Use, and to abide by and comply with these Terms of Use.
+        \n\n3. APP ACCESS
+        \n\n3.1 You are responsible for all access to the App using your internet connection, even if the access is by another person.
+        \n\n3.2 We will use reasonable efforts to ensure that the App is available at all times. However, we cannot guarantee that the App or any individual function or feature of the App will always be available and/or error free. The App may be unavailable during periods when we are implementing upgrades or carrying our essential maintenance on the App.
+        \n\n4. ACCESS TO APP OUTSIDE OF MALAYSIA
+        \n\n4.1 We make no promise that the materials on the App are appropriate or available for use in locations outside MALAYSIA. Accessing the App from territories where its contents are illegal or unlawful is prohibited. If you choose to access the App from elsewhere, you do so on your own initiative and are responsible for compliance with local laws.
+        \n\n5. YOUR USE OF THE APP
+        \n\n5.1 Your permission to use the App is personal to you and non-transferable, and you may not use the App for commercial purposes. Your use of the App is conditional on your compliance with the rules of conduct set forth in these Terms of Use and you agree that you will not:
+        \n\n5.1.1 Use the App for any fraudulent or unlawful purpose;
+        \n\n5.1.2 Use the App to defame, abuse, harass, stalk, threaten or otherwise violate the rights of others, including without limitation others\' privacy rights or rights of publicity;
+        \n\n5.1.3 Impersonate any person or entity, false state or otherwise misrepresent your affliation with any person or entity in connection with the App or express or imply that we endorse any statement you make;
+        \n\n5.1.4 Interfere with or disrupt the operation of the App or the servers or networks used to make the App available or violate any requirements, procedures, policies or regulations of such networks;
+        \n\n5.1.5 Transmit or otherwise make available in connection with the App any virus, worm or other computer code that is harmful or invasive or may or is intended to damage the operation of, or to monitor the use of, any hardware, software, or equipment;
+        \n\n5.1.6 Reproduce, duplicate, copy, sell, resell or otherwise exploit for any commercial purposes, any portion of, use of, or access to the App;
+        \n\n5.1.7 Modify, adapt, translate, reverse engineer, decompile or disassemble any portion of the App. If you wish to reverse engineer any part of the App to create an interoperable program you must contact us and we may provide interface data subject to verification of your identity and other information;
+        \n\n5.1.8 Remove any copyright, trade mark or other proprietary rights notice from the App or materials originating from the App;
+        \n\n5.1.9 Frame or mirror any part of the App without our express prior written consent;
+        \n\n5.1.10 Create a database by systematically downloading and storing App content;
+        \n\n5.1.11 Use any manual or automatic device in any way to gather App content or reproduce or circumvent the navigational structure or presentation of the App without our express prior written consent. Notwithstanding the foregoing, we grant the operators of public online search engines limited permission to use search retrieval applications to reproduce materials from the App for the sole purpose of and solely to the extent necessary for creating publicly available searchable indices of such materials solely in connection with each operator\'s public online search service.
+        \n\n5.2 We reserve the right to revoke these exceptions either generally or in specific instances.\n\n6. THIRD PARTY WEBSITES\n\n6.1 The App may provide links to other websites and online resources. We are not responsible for and do not endorse such external sites or resources. Your use of third party websites and resources is at your own risk.
+        \n\n6.2 You may create a link to this App, provided that:
+        \n\n6.2.1 The link is fair and legal and is not presented in a way that is:
+        \n\n(a) Misleading or could suggest any type of association, approval or endorsement by us that does not exist, or
+        \n\n(b) Harmful to our reputation or the reputation of any of our affiliates;
+        \n\n6.2.2 You retain the legal right and technical ability to immediately remove the link at any time, following a request by us to do so.
+        \n\n6.3 We reserve the right to require you to immediately remove any link to the App at any time and you shall immediately comply with any request by us to remove any such link.
+        \n\n7. INTELLECTUAL PROPERTY
+        \n\n7.1 The intellectual property rights in the App and all of the text, pictures, videos, graphics, user interfaces, visual interfaces, trademarks, logos, applications, programs, computer code and other content made available on it are owned by us and our licensors. You may not print or otherwise make copies of any such content without our express prior permission
+        \n\n8. LIMITATION OF LIABILITY
+        \n\n8.1 We provide the App on an "as is"; basis and make no representations as to the quality, completeness or accuracy of any content made available on the App. To the maximum extent permitted by law, we expressly exclude:
+        \n\n8.1.1 All conditions, warranties and other terms that might otherwise by implied by law into these Terms of Use; and
+        \n\n8.1.2 Any and all liability to you, whether arising under these Terms of Use or otherwise in connection with your use of the App.
+        \n\n8.2 The foregoing is a comprehensive limitation of liability that applies to all damages of any kind,including (without limitation) compensatory, direct, indirect or consequential damages, loss of data, income or profit, loss of or damage to property and claims of third parties. Notwithstanding the foregoing, nothing in these Terms of Use is intended to exclude or limit any liability that may not by law be excluded or limited, and in particular none of the exclusions and limitations in this clause are intended to limit any rights you may have as a consumer under MALAYSIA law or statutory rights which may not be excluded, nor in any way to exclude or limit (site owner) liability to you for death or personal injury resulting from our negligence or that of our employees or agents.
+        \n\n9. COLLECTION OF PERSONAL INFORMATION
+        \n\n9.1 We may collect and use information about you in accordance with our privacy policy. You can view a copy of this policy by clicking here
+        \n\n10. DURATION OF TERMS
+        \n\n10.1 These Terms of Use are effective until terminated. We may, at any time and for any reason, terminate your access to or use of the App. If we terminate your access to the App you will not have the right to bring claims against us or our affiliates with respect to such termination. We and our affiliates shall not be liable for any termination of your access to the App.
+        \n\n11. GOVERNING LAW
+        \n\n11.1 These Terms of Use will be governed by and construed in accordance with the laws of MALAYSIA, and the courts of MALAYSIA will have non-exclusive jurisdiction over any claim or dispute arising under or in connection with these Terms of Use.
+</string>
+
+    <string name="contact_us"><b>ADDRESS:</b>\nB3A-11, Level 3A, Megan Ambassy 225,
+        \nJalan Ampang, 50450 Kuala Lumpur, Malaysia
+        \n\n<b>MSC Address:</b>
+        \nNo. 3, Level 2, Block J, Jalan GC 11,
+        \nGlomac Cyber, 63000 Cyber 4, Malaysia
+        \n\n<b>PHONES:</b>\n+60321813203 (Office)\n+60321620806 (Fax)
+        \n\n<b>EMAIL:</b>\nmarketing@madcatworld.com</string>
+
+    <string name="rate">Enjoying the app? Help us out and rate us in the app store. We will be sure to keep the updates coming in return!</string>
+
+</resources>

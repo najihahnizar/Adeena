@@ -1,0 +1,195 @@
+<FrameLayout
+    android:id="@+id/zikr"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="55dp"
+    tools:context="ilyana.aziera.adeena.ZikrFragment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        >
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:text="Daily Zikr"
+                    android:textSize="20sp"
+                    android:textColor="@android:color/black"
+                    android:background="@color/colorBg"/>
+
+                <Button
+                    android:id="@+id/bMonday"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Monday"
+                    android:gravity="start|center_vertical"
+                    style="@style/Widget.AppCompat.Button.Borderless"
+                    />
+
+                <Button
+                    android:id="@+id/bTuesday"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Tuesday"
+                    android:gravity="start|center_vertical"
+                    style="@style/Widget.AppCompat.Button.Borderless"
+                    />
+
+                <Button
+                    android:id="@+id/bWednesday"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Wednesday"
+                    android:gravity="start|center_vertical"
+                    style="@style/Widget.AppCompat.Button.Borderless"
+                    />
+
+                <Button
+                    android:id="@+id/bThursday"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Thursday"
+                    android:gravity="start|center_vertical"
+                    style="@style/Widget.AppCompat.Button.Borderless"
+                    />
+
+                <Button
+                    android:id="@+id/bFriday"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Friday"
+                    android:gravity="start|center_vertical"
+                    style="@style/Widget.AppCompat.Button.Borderless"
+                    />
+
+                <Button
+                    android:id="@+id/bSaturday"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Saturday"
+                    android:gravity="start|center_vertical"
+                    style="@style/Widget.AppCompat.Button.Borderless"
+                    />
+
+                <Button
+                    android:id="@+id/bSunday"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Sunday"
+                    android:gravity="start|center_vertical"
+                    style="@style/Widget.AppCompat.Button.Borderless"
+                    />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:text="Duas"
+                    android:textSize="20sp"
+                    android:textColor="@android:color/black"
+                    android:background="@color/colorBg"/>
+
+                <Button
+                    android:id="@+id/bDuaFatimah"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Sayidatina Fatimah R.A"
+                    android:gravity="start|center_vertical"
+                    style="@style/Widget.AppCompat.Button.Borderless"
+                    />
+
+                <Button
+                    android:id="@+id/bDuaPeriod"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Upon Getting Period (Haidh)"
+                    android:gravity="start|center_vertical"
+                    style="@style/Widget.AppCompat.Button.Borderless"
+                    />
+
+                <Button
+                    android:id="@+id/bDuaKhadhijah"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Sayidatina Khadijah R.A"
+                    android:gravity="start|center_vertical"
+                    style="@style/Widget.AppCompat.Button.Borderless"
+                    />
+
+                <Button
+                    android:id="@+id/bDuaTask"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="For Ease of Task"
+                    android:gravity="start|center_vertical"
+                    style="@style/Widget.AppCompat.Button.Borderless"
+                    />
+
+                <Button
+                    android:id="@+id/bDuaHappiness"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="For Happiness and Tranquility"
+                    android:gravity="start|center_vertical"
+                    style="@style/Widget.AppCompat.Button.Borderless"
+                    />
+
+                <Button
+                    android:id="@+id/bDuaGoodness"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="For Goodness"
+                    android:gravity="start|center_vertical"
+                    style="@style/Widget.AppCompat.Button.Borderless"
+                    />
+
+                <Button
+                    android:id="@+id/bDuaForgivenss"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="For Forgiveness"
+                    android:gravity="start|center_vertical"
+                    style="@style/Widget.AppCompat.Button.Borderless"
+                    />
+
+                <Button
+                    android:id="@+id/bDuaSolehah"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="For Soleh and Solehah"
+                    android:gravity="start|center_vertical"
+                    style="@style/Widget.AppCompat.Button.Borderless"
+                    />
+
+                <Button
+                    android:id="@+id/bDuaLife"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="For Life Sufficiency"
+                    android:gravity="start|center_vertical"
+                    style="@style/Widget.AppCompat.Button.Borderless"
+                    />
+
+            </LinearLayout>
+
+        </ScrollView>
+
+
+    </LinearLayout>
+
+
+
+</FrameLayout>

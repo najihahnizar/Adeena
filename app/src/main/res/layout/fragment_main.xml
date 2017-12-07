@@ -1,0 +1,87 @@
+<FrameLayout
+    android:id="@+id/home"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="55dp"
+    android:background="@color/colorFragment"
+    tools:context="ilyana.aziera.adeena.MainFragment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <Button
+                    android:id="@+id/bPrayer"
+                    android:layout_width="match_parent"
+                    android:layout_height="50dp"
+                    android:text="Prayer Time"
+                    android:gravity="start|center_vertical"
+
+                    style="@style/Widget.AppCompat.Button.Borderless"
+                    />
+
+                <Button
+                    android:id="@+id/bGratitude"
+                    android:layout_width="match_parent"
+                    android:layout_height="100dp"
+                    android:text="My Gratitude"
+                    android:gravity="start|center_vertical"
+                    style="@style/Widget.AppCompat.Button.Borderless"
+                    />
+
+                <Button
+                    android:id="@+id/bDua"
+                    android:layout_width="match_parent"
+                    android:layout_height="100dp"
+                    android:text="My Dua"
+                    android:gravity="start|center_vertical"
+                    style="@style/Widget.AppCompat.Button.Borderless"
+                    />
+
+                <Button
+                    android:id="@+id/bNews"
+                    android:layout_width="match_parent"
+                    android:layout_height="100dp"
+                    android:text="Today's News"
+                    android:gravity="start|center_vertical"
+                    style="@style/Widget.AppCompat.Button.Borderless"
+                    />
+
+                <Button
+                    android:id="@+id/bFast"
+                    android:layout_width="match_parent"
+                    android:layout_height="100dp"
+                    android:text="Fast Qadha"
+                    android:gravity="start|center_vertical"
+                    style="@style/Widget.AppCompat.Button.Borderless"
+                    />
+
+                <Button
+                    android:id="@+id/bTodoLists"
+                    android:layout_width="match_parent"
+                    android:layout_height="100dp"
+                    android:text="Todo List"
+                    android:gravity="start|center_vertical"
+                    style="@style/Widget.AppCompat.Button.Borderless"
+                    />
+
+            </LinearLayout>
+
+        </ScrollView>
+
+    </LinearLayout>
+
+</FrameLayout>
